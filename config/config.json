@@ -1,0 +1,19 @@
+{
+  "broker" : {
+                "connection" : {
+                        "username" : "usuario_rab20",
+                        "password" : "234dfsd34.342.t5",
+                        "host" : "172.17.0.3",
+                        "port" : 5672,
+                        "vhost" : "/",
+                        "channel_max" : 1,
+                        "frame_max" : 4096,
+                        "heartbeat" : 0,
+                        "connection_attempts" : 3,
+                        "retry_delay" : 1,
+                        "socket_timeout" : 300,
+                        "stack_timeout" : 300,
+                        "blocked_connection_timeout" : 1
+                }
+        }
+}
